@@ -1,0 +1,6 @@
+E:\darklord\reading_material\practicals\code\Words\Words\bin\Debug\Words.exe.config
+E:\darklord\reading_material\practicals\code\Words\Words\bin\Debug\Words.exe
+E:\darklord\reading_material\practicals\code\Words\Words\bin\Debug\Words.pdb
+E:\darklord\reading_material\practicals\code\Words\Words\obj\Debug\Words.csprojResolveAssemblyReference.cache
+E:\darklord\reading_material\practicals\code\Words\Words\obj\Debug\Words.exe
+E:\darklord\reading_material\practicals\code\Words\Words\obj\Debug\Words.pdb

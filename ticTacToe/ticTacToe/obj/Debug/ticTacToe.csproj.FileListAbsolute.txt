@@ -1,0 +1,9 @@
+E:\darklord\reading_material\practicals\code\ticTacToe\ticTacToe\bin\Debug\ticTacToe.exe.config
+E:\darklord\reading_material\practicals\code\ticTacToe\ticTacToe\bin\Debug\ticTacToe.exe
+E:\darklord\reading_material\practicals\code\ticTacToe\ticTacToe\bin\Debug\ticTacToe.pdb
+E:\darklord\reading_material\practicals\code\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csprojResolveAssemblyReference.cache
+E:\darklord\reading_material\practicals\code\ticTacToe\ticTacToe\obj\Debug\ticTacToe.Form1.resources
+E:\darklord\reading_material\practicals\code\ticTacToe\ticTacToe\obj\Debug\ticTacToe.Properties.Resources.resources
+E:\darklord\reading_material\practicals\code\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.GenerateResource.Cache
+E:\darklord\reading_material\practicals\code\ticTacToe\ticTacToe\obj\Debug\ticTacToe.exe
+E:\darklord\reading_material\practicals\code\ticTacToe\ticTacToe\obj\Debug\ticTacToe.pdb

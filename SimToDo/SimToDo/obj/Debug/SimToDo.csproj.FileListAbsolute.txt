@@ -1,0 +1,12 @@
+E:\darklord\reading_material\rev\SimToDo\SimToDo\bin\Debug\SimToDo.exe.config
+E:\darklord\reading_material\rev\SimToDo\SimToDo\bin\Debug\SimToDo.exe
+E:\darklord\reading_material\rev\SimToDo\SimToDo\bin\Debug\SimToDo.pdb
+E:\darklord\reading_material\rev\SimToDo\SimToDo\obj\Debug\SimToDo.csprojResolveAssemblyReference.cache
+E:\darklord\reading_material\rev\SimToDo\SimToDo\obj\Debug\SimToDo.Todo.resources
+E:\darklord\reading_material\rev\SimToDo\SimToDo\obj\Debug\SimToDo.Properties.Resources.resources
+E:\darklord\reading_material\rev\SimToDo\SimToDo\obj\Debug\SimToDo.csproj.GenerateResource.Cache
+E:\darklord\reading_material\rev\SimToDo\SimToDo\obj\Debug\SimToDo.exe
+E:\darklord\reading_material\rev\SimToDo\SimToDo\obj\Debug\SimToDo.pdb
+E:\darklord\things\SimToDo\SimToDo\bin\Debug\SimToDo.exe.config
+E:\darklord\things\SimToDo\SimToDo\obj\Debug\SimToDo.exe
+E:\darklord\things\SimToDo\SimToDo\obj\Debug\SimToDo.pdb

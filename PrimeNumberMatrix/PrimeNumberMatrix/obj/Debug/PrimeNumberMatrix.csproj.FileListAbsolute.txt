@@ -1,0 +1,12 @@
+E:\darklord\reading_material\practicals\code\PrimeNumberMatrix\PrimeNumberMatrix\bin\Debug\PrimeNumberMatrix.exe.config
+E:\darklord\reading_material\practicals\code\PrimeNumberMatrix\PrimeNumberMatrix\bin\Debug\PrimeNumberMatrix.exe
+E:\darklord\reading_material\practicals\code\PrimeNumberMatrix\PrimeNumberMatrix\bin\Debug\PrimeNumberMatrix.pdb
+E:\darklord\reading_material\practicals\code\PrimeNumberMatrix\PrimeNumberMatrix\obj\Debug\PrimeNumberMatrix.csprojResolveAssemblyReference.cache
+E:\darklord\reading_material\practicals\code\PrimeNumberMatrix\PrimeNumberMatrix\obj\Debug\PrimeNumberMatrix.exe
+E:\darklord\reading_material\practicals\code\PrimeNumberMatrix\PrimeNumberMatrix\obj\Debug\PrimeNumberMatrix.pdb
+E:\darklord\things\PrimeNumberMatrix\PrimeNumberMatrix\bin\Debug\PrimeNumberMatrix.exe.config
+E:\darklord\things\PrimeNumberMatrix\PrimeNumberMatrix\obj\Debug\PrimeNumberMatrix.exe
+E:\darklord\things\PrimeNumberMatrix\PrimeNumberMatrix\obj\Debug\PrimeNumberMatrix.pdb
+E:\darklord\things\PrimeNumberMatrix\PrimeNumberMatrix\bin\Debug\PrimeNumberMatrix.exe
+E:\darklord\things\PrimeNumberMatrix\PrimeNumberMatrix\bin\Debug\PrimeNumberMatrix.pdb
+E:\darklord\things\PrimeNumberMatrix\PrimeNumberMatrix\obj\Debug\PrimeNumberMatrix.csprojResolveAssemblyReference.cache
