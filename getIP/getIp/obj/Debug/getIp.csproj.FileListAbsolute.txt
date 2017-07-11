@@ -1,0 +1,6 @@
+E:\darklord\new\getIp\getIp\bin\Debug\getIp.exe.config
+E:\darklord\new\getIp\getIp\bin\Debug\getIp.exe
+E:\darklord\new\getIp\getIp\bin\Debug\getIp.pdb
+E:\darklord\new\getIp\getIp\obj\Debug\getIp.csprojResolveAssemblyReference.cache
+E:\darklord\new\getIp\getIp\obj\Debug\getIp.exe
+E:\darklord\new\getIp\getIp\obj\Debug\getIp.pdb

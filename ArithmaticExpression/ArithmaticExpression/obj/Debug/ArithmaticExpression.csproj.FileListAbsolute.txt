@@ -1,0 +1,6 @@
+E:\darklord\reading_material\practicals\code\ArithmaticExpression\ArithmaticExpression\bin\Debug\ArithmaticExpression.exe.config
+E:\darklord\reading_material\practicals\code\ArithmaticExpression\ArithmaticExpression\bin\Debug\ArithmaticExpression.exe
+E:\darklord\reading_material\practicals\code\ArithmaticExpression\ArithmaticExpression\bin\Debug\ArithmaticExpression.pdb
+E:\darklord\reading_material\practicals\code\ArithmaticExpression\ArithmaticExpression\obj\Debug\ArithmaticExpression.csprojResolveAssemblyReference.cache
+E:\darklord\reading_material\practicals\code\ArithmaticExpression\ArithmaticExpression\obj\Debug\ArithmaticExpression.exe
+E:\darklord\reading_material\practicals\code\ArithmaticExpression\ArithmaticExpression\obj\Debug\ArithmaticExpression.pdb
