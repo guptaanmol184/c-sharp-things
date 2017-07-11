@@ -1,0 +1,9 @@
+E:\darklord\reading_material\practicals\code\NumberPuzzle\NumberPuzzle\bin\Debug\NumberPuzzle.exe.config
+E:\darklord\reading_material\practicals\code\NumberPuzzle\NumberPuzzle\bin\Debug\NumberPuzzle.exe
+E:\darklord\reading_material\practicals\code\NumberPuzzle\NumberPuzzle\bin\Debug\NumberPuzzle.pdb
+E:\darklord\reading_material\practicals\code\NumberPuzzle\NumberPuzzle\obj\Debug\NumberPuzzle.csprojResolveAssemblyReference.cache
+E:\darklord\reading_material\practicals\code\NumberPuzzle\NumberPuzzle\obj\Debug\NumberPuzzle.Form1.resources
+E:\darklord\reading_material\practicals\code\NumberPuzzle\NumberPuzzle\obj\Debug\NumberPuzzle.Properties.Resources.resources
+E:\darklord\reading_material\practicals\code\NumberPuzzle\NumberPuzzle\obj\Debug\NumberPuzzle.csproj.GenerateResource.Cache
+E:\darklord\reading_material\practicals\code\NumberPuzzle\NumberPuzzle\obj\Debug\NumberPuzzle.exe
+E:\darklord\reading_material\practicals\code\NumberPuzzle\NumberPuzzle\obj\Debug\NumberPuzzle.pdb

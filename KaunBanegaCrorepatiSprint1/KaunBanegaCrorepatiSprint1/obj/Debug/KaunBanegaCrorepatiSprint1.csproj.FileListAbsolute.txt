@@ -1,0 +1,12 @@
+c:\users\anmol.gupta\documents\visual studio 2015\Projects\KaunBanegaCrorepatiSprint1\KaunBanegaCrorepatiSprint1\bin\Debug\KaunBanegaCrorepatiSprint1.exe.config
+c:\users\anmol.gupta\documents\visual studio 2015\Projects\KaunBanegaCrorepatiSprint1\KaunBanegaCrorepatiSprint1\bin\Debug\KaunBanegaCrorepatiSprint1.exe
+c:\users\anmol.gupta\documents\visual studio 2015\Projects\KaunBanegaCrorepatiSprint1\KaunBanegaCrorepatiSprint1\bin\Debug\KaunBanegaCrorepatiSprint1.pdb
+c:\users\anmol.gupta\documents\visual studio 2015\Projects\KaunBanegaCrorepatiSprint1\KaunBanegaCrorepatiSprint1\obj\Debug\KaunBanegaCrorepatiSprint1.csprojResolveAssemblyReference.cache
+c:\users\anmol.gupta\documents\visual studio 2015\Projects\KaunBanegaCrorepatiSprint1\KaunBanegaCrorepatiSprint1\obj\Debug\KaunBanegaCrorepatiSprint1.exe
+c:\users\anmol.gupta\documents\visual studio 2015\Projects\KaunBanegaCrorepatiSprint1\KaunBanegaCrorepatiSprint1\obj\Debug\KaunBanegaCrorepatiSprint1.pdb
+E:\darklord\KaunBanegaCrorepatiSprint1\KaunBanegaCrorepatiSprint1\bin\Debug\KaunBanegaCrorepatiSprint1.exe.config
+E:\darklord\KaunBanegaCrorepatiSprint1\KaunBanegaCrorepatiSprint1\obj\Debug\KaunBanegaCrorepatiSprint1.exe
+E:\darklord\KaunBanegaCrorepatiSprint1\KaunBanegaCrorepatiSprint1\obj\Debug\KaunBanegaCrorepatiSprint1.pdb
+E:\darklord\KaunBanegaCrorepatiSprint1\KaunBanegaCrorepatiSprint1\bin\Debug\KaunBanegaCrorepatiSprint1.exe
+E:\darklord\KaunBanegaCrorepatiSprint1\KaunBanegaCrorepatiSprint1\bin\Debug\KaunBanegaCrorepatiSprint1.pdb
+E:\darklord\KaunBanegaCrorepatiSprint1\KaunBanegaCrorepatiSprint1\obj\Debug\KaunBanegaCrorepatiSprint1.csprojResolveAssemblyReference.cache
