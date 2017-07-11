@@ -1,2 +1,3 @@
-# c-sharp-things
-Some small things i made when i was learning c sharp
+# C# Things
+
+These are just some small things that i made while learning C# and .net basics.
